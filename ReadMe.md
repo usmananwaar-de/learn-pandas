@@ -13,7 +13,7 @@ To get started with the code in this repository, it is recommended to set up a v
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/pandas-practice.git
+   git clone https://github.com/your-username/learn-pandas.git
    ```
 
 2. Navigate to the cloned directory:
